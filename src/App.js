@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import countyData from './county-data'
+import districtData from './data/lr-leas-16-17-testing-and-graduation.js'
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import SearchBarAndResults from './SearchBarAndResults'
 
@@ -21,7 +21,7 @@ class App extends Component {
           <p className="App-intro">
             To get started, edit <code>src/App.js</code> and save to reload.
           </p>
-          <SearchBarAndResults countyData={countyData} />
+          <SearchBarAndResults districtData={districtData} />
         </div>
       </MuiThemeProvider>
     );

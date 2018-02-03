@@ -11,15 +11,15 @@ export default class SearchBarAndResults extends Component {
   }
 
   render() {
-    const {selectedItemIndex} = this.state
-    const selectedCounty = this.props.countyData[selectedItemIndex]
+    const { selectedItemIndex } = this.state
+    const selectedDistrictObject = this.props.districtData[selectedItemIndex]
 
     return (
       <div>
         <AutoComplete
-          floatingLabelText="Type 'peah', fuzzy search"
+          floatingLabelText="Search a school district name"
           filter={AutoComplete.fuzzyFilter}
-          dataSource={this.props.countyData.map(d => d.county)}
+          dataSource={this.props.districtData.map(d => d.districtName)}
           maxSearchResults={10}
           onNewRequest={(selectedText, index) => {
             this.setState({
@@ -29,11 +29,11 @@ export default class SearchBarAndResults extends Component {
         />
 
         {/* Results: */}
-        <p>
-          {selectedItemIndex}
-          {JSON.stringify(selectedCounty)}
+        <div>
+          <h3>Index: {selectedItemIndex}</h3>
+          <h3>{selectedDistrictObject ? selectedDistrictObject.districtName : "[none district selected]"}</h3>
           yo
-        </p>
+        </div>
       </div>
     );
   }
