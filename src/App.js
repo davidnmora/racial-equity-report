@@ -23,7 +23,8 @@ class App extends Component {
             </header>
             <p className="App-intro">
               To get started, search for a school district and click it to view its report card.
-          </p>
+            </p>
+
             <SearchBarAndResults districtData={districtData} />
           </div>
         </div>
