@@ -7,12 +7,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.96,
     "LR_EOC_College_Ready_White_To_Black": 1.3,
     "LR_EOC_College_Ready_White_To_Hispanic": "",
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.1,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.1,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": "",
     "LR_EOG_College_Ready_White_To_Black": 3.56,
     "LR_EOG_College_Ready_White_To_Hispanic": "",
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.35,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": ""
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.35,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": ""
   },
   {
     "leaCode": 292,
@@ -22,12 +22,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.89,
     "LR_EOC_College_Ready_White_To_Black": 2.53,
     "LR_EOC_College_Ready_White_To_Hispanic": 2.48,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.05,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 2.06,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.05,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 2.06,
     "LR_EOG_College_Ready_White_To_Black": 2.83,
     "LR_EOG_College_Ready_White_To_Hispanic": 2.57,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.25,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 2.09
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.25,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 2.09
   },
   {
     "leaCode": 330,
@@ -37,12 +37,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.95,
     "LR_EOC_College_Ready_White_To_Black": 2.42,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.98,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.99,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.69,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.99,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.69,
     "LR_EOG_College_Ready_White_To_Black": 2.62,
     "LR_EOG_College_Ready_White_To_Hispanic": 2.37,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.17,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 2.02
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.17,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 2.02
   },
   {
     "leaCode": 181,
@@ -52,12 +52,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.9,
     "LR_EOC_College_Ready_White_To_Black": 2.66,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.82,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.12,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.63,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.12,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.63,
     "LR_EOG_College_Ready_White_To_Black": 2.93,
     "LR_EOG_College_Ready_White_To_Hispanic": 2.15,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.34,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.84
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.34,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.84
   },
   {
     "leaCode": 900,
@@ -67,12 +67,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.12,
     "LR_EOC_College_Ready_White_To_Black": 2.3,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.89,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.92,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.66,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.92,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.66,
     "LR_EOG_College_Ready_White_To_Black": 2.3,
     "LR_EOG_College_Ready_White_To_Hispanic": 2.08,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.93,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.81
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.93,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.81
   },
   {
     "leaCode": 995,
@@ -82,12 +82,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": "",
     "LR_EOC_College_Ready_White_To_Hispanic": 1.46,
-    "LR_EOC_Grade Level Proficient_White_To_Black": "",
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.44,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.44,
     "LR_EOG_College_Ready_White_To_Black": 1.95,
     "LR_EOG_College_Ready_White_To_Hispanic": 2.22,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.29,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.76
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.29,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.76
   },
   {
     "leaCode": 182,
@@ -97,12 +97,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 2.27,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.97,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.85,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.68,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.85,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.68,
     "LR_EOG_College_Ready_White_To_Black": 2.17,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.95,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.83,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.7
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.83,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.7
   },
   {
     "leaCode": 681,
@@ -112,12 +112,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.17,
     "LR_EOC_College_Ready_White_To_Black": 2.16,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.88,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.94,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.75,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.94,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.75,
     "LR_EOG_College_Ready_White_To_Black": 2.45,
     "LR_EOG_College_Ready_White_To_Hispanic": 2,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.9,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.65
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.9,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.65
   },
   {
     "leaCode": 132,
@@ -127,12 +127,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.98,
     "LR_EOC_College_Ready_White_To_Black": 1.93,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.96,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.65,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.66,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.65,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.66,
     "LR_EOG_College_Ready_White_To_Black": 1.77,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.83,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.57,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.63
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.57,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.63
   },
   {
     "leaCode": 40,
@@ -142,12 +142,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.96,
     "LR_EOC_College_Ready_White_To_Black": 3.29,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.45,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.3,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.37,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.3,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.37,
     "LR_EOG_College_Ready_White_To_Black": 2.17,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.95,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.85,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.63
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.85,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.63
   },
   {
     "leaCode": 860,
@@ -157,12 +157,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.01,
     "LR_EOC_College_Ready_White_To_Black": "",
     "LR_EOC_College_Ready_White_To_Hispanic": 0.93,
-    "LR_EOC_Grade Level Proficient_White_To_Black": "",
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.17,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.17,
     "LR_EOG_College_Ready_White_To_Black": 1.37,
     "LR_EOG_College_Ready_White_To_Hispanic": 2.25,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.27,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.61
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.27,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.61
   },
   {
     "leaCode": 80,
@@ -172,12 +172,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": "",
     "LR_EOC_College_Ready_White_To_Hispanic": 2.2,
-    "LR_EOC_Grade Level Proficient_White_To_Black": "",
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.4,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.4,
     "LR_EOG_College_Ready_White_To_Black": "",
     "LR_EOG_College_Ready_White_To_Hispanic": 1.78,
-    "LR_EOG_Grade Level Proficient_White_To_Black": "",
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.61
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.61
   },
   {
     "leaCode": 400,
@@ -187,12 +187,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 2.13,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.71,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.8,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.53,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.8,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.53,
     "LR_EOG_College_Ready_White_To_Black": 2.25,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.8,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.92,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.59
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.92,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.59
   },
   {
     "leaCode": 190,
@@ -202,12 +202,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.09,
     "LR_EOC_College_Ready_White_To_Black": 2.71,
     "LR_EOC_College_Ready_White_To_Hispanic": 2.25,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.34,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.88,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.34,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.88,
     "LR_EOG_College_Ready_White_To_Black": 2.43,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.87,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.98,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.57
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.98,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.57
   },
   {
     "leaCode": 870,
@@ -217,12 +217,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 0.89,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.42,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.41,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.34,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.41,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.34,
     "LR_EOG_College_Ready_White_To_Black": 2.11,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.69,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.75,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.57
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.75,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.57
   },
   {
     "leaCode": 930,
@@ -232,12 +232,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": "",
     "LR_EOC_College_Ready_White_To_Hispanic": 1.54,
-    "LR_EOC_Grade Level Proficient_White_To_Black": "",
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.59,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.59,
     "LR_EOG_College_Ready_White_To_Black": 1.32,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.68,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.25,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.56
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.25,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.56
   },
   {
     "leaCode": 770,
@@ -247,12 +247,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.78,
     "LR_EOC_College_Ready_White_To_Black": 3.17,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.19,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.85,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.24,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.85,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.24,
     "LR_EOG_College_Ready_White_To_Black": 2.15,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.7,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.86,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.56
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.86,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.56
   },
   {
     "leaCode": 470,
@@ -262,12 +262,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.98,
     "LR_EOC_College_Ready_White_To_Black": 3.11,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.69,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.45,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.45,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.45,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.45,
     "LR_EOG_College_Ready_White_To_Black": 2.75,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.74,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.24,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.55
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.24,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.55
   },
   {
     "leaCode": 800,
@@ -277,12 +277,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.04,
     "LR_EOC_College_Ready_White_To_Black": 3.55,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.61,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.67,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.47,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.67,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.47,
     "LR_EOG_College_Ready_White_To_Black": 2.86,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.76,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.25,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.55
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.25,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.55
   },
   {
     "leaCode": 10,
@@ -292,12 +292,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.14,
     "LR_EOC_College_Ready_White_To_Black": 1.84,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.36,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.6,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.29,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.6,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.29,
     "LR_EOG_College_Ready_White_To_Black": 2.3,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.71,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.96,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.53
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.96,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.53
   },
   {
     "leaCode": 650,
@@ -307,12 +307,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.19,
     "LR_EOC_College_Ready_White_To_Black": 3.35,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.64,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.65,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.49,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.65,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.49,
     "LR_EOG_College_Ready_White_To_Black": 2.91,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.69,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.39,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.52
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.39,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.52
   },
   {
     "leaCode": 291,
@@ -322,12 +322,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.79,
     "LR_EOC_College_Ready_White_To_Black": 2.42,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.69,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.95,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.51,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.95,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.51,
     "LR_EOG_College_Ready_White_To_Black": 2.28,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.69,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.92,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.52
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.92,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.52
   },
   {
     "leaCode": 170,
@@ -337,12 +337,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.18,
     "LR_EOC_College_Ready_White_To_Black": 1.71,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.55,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.87,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.6,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.87,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.6,
     "LR_EOG_College_Ready_White_To_Black": 1.63,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.84,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.53,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.52
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.53,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.52
   },
   {
     "leaCode": 380,
@@ -352,12 +352,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 1.96,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.3,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.67,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.24,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.67,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.24,
     "LR_EOG_College_Ready_White_To_Black": 1.84,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.66,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.56,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.5
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.56,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.5
   },
   {
     "leaCode": 390,
@@ -367,12 +367,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.04,
     "LR_EOC_College_Ready_White_To_Black": 2.06,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.68,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.82,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.3,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.82,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.3,
     "LR_EOG_College_Ready_White_To_Black": 2.53,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.74,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.01,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.5
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.01,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.5
   },
   {
     "leaCode": 580,
@@ -382,12 +382,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 1.37,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.35,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.18,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.2,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.18,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.2,
     "LR_EOG_College_Ready_White_To_Black": 1.57,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.7,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.36,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.49
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.36,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.49
   },
   {
     "leaCode": 490,
@@ -397,12 +397,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.16,
     "LR_EOC_College_Ready_White_To_Black": 2.07,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.71,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.81,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.51,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.81,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.51,
     "LR_EOG_College_Ready_White_To_Black": 2,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.7,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.75,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.49
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.75,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.49
   },
   {
     "leaCode": 500,
@@ -412,12 +412,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.02,
     "LR_EOC_College_Ready_White_To_Black": 2.89,
     "LR_EOC_College_Ready_White_To_Hispanic": 2.17,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.2,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.87,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.2,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.87,
     "LR_EOG_College_Ready_White_To_Black": 2.04,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.66,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.82,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.49
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.82,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.49
   },
   {
     "leaCode": 440,
@@ -427,12 +427,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.92,
     "LR_EOC_College_Ready_White_To_Black": 3.51,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.71,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.59,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.41,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.59,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.41,
     "LR_EOG_College_Ready_White_To_Black": 2.91,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.63,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.33,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.48
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.33,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.48
   },
   {
     "leaCode": 120,
@@ -442,12 +442,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.98,
     "LR_EOC_College_Ready_White_To_Black": 2.5,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.63,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.09,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.43,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.09,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.43,
     "LR_EOG_College_Ready_White_To_Black": 2.23,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.65,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.88,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.47
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.88,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.47
   },
   {
     "leaCode": 70,
@@ -457,12 +457,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.01,
     "LR_EOC_College_Ready_White_To_Black": 3.96,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.86,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.86,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.34,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.86,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.34,
     "LR_EOG_College_Ready_White_To_Black": 4.62,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.65,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 3.53,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.47
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 3.53,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.47
   },
   {
     "leaCode": 862,
@@ -472,12 +472,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.95,
     "LR_EOC_College_Ready_White_To_Black": 2.91,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.75,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.77,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.55,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.77,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.55,
     "LR_EOG_College_Ready_White_To_Black": 1.97,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.52,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.77,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.46
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.77,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.46
   },
   {
     "leaCode": 980,
@@ -487,12 +487,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.31,
     "LR_EOC_College_Ready_White_To_Black": 2.28,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.34,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.92,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.27,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.92,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.27,
     "LR_EOG_College_Ready_White_To_Black": 2.52,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.6,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.09,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.44
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.09,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.44
   },
   {
     "leaCode": 740,
@@ -502,12 +502,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.99,
     "LR_EOC_College_Ready_White_To_Black": 2.62,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.42,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.16,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.35,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.16,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.35,
     "LR_EOG_College_Ready_White_To_Black": 2.65,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.61,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.11,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.44
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.11,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.44
   },
   {
     "leaCode": 180,
@@ -517,12 +517,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.02,
     "LR_EOC_College_Ready_White_To_Black": 2.17,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.64,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.73,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.37,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.73,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.37,
     "LR_EOG_College_Ready_White_To_Black": 1.93,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.57,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.7,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.44
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.7,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.44
   },
   {
     "leaCode": 940,
@@ -532,12 +532,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 2.37,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.54,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.12,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.41,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.12,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.41,
     "LR_EOG_College_Ready_White_To_Black": 2.37,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.59,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.43
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.43
   },
   {
     "leaCode": 880,
@@ -547,12 +547,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.19,
     "LR_EOC_College_Ready_White_To_Black": 1.92,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.76,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.65,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.59,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.65,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.59,
     "LR_EOG_College_Ready_White_To_Black": 1.84,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.63,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.64,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.43
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.64,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.43
   },
   {
     "leaCode": 610,
@@ -562,12 +562,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 2.49,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.49,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.09,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.27,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.09,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.27,
     "LR_EOG_College_Ready_White_To_Black": 2.35,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.56,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.91,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.43
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.91,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.43
   },
   {
     "leaCode": 270,
@@ -577,12 +577,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.06,
     "LR_EOC_College_Ready_White_To_Black": 5.36,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.37,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.41,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.21,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.41,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.21,
     "LR_EOG_College_Ready_White_To_Black": 3.04,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.64,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.46,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.42
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.46,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.42
   },
   {
     "leaCode": 320,
@@ -592,12 +592,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.3,
     "LR_EOC_College_Ready_White_To_Black": 7.64,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.37,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 9.09,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.3,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 9.09,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.3,
     "LR_EOG_College_Ready_White_To_Black": 1.17,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.65,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.15,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.4
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.15,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.4
   },
   {
     "leaCode": 640,
@@ -607,12 +607,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.06,
     "LR_EOC_College_Ready_White_To_Black": 2.41,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.63,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.02,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.6,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.02,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.6,
     "LR_EOG_College_Ready_White_To_Black": 2.39,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.59,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.02,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.4
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.02,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.4
   },
   {
     "leaCode": 910,
@@ -622,12 +622,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.1,
     "LR_EOC_College_Ready_White_To_Black": 2.8,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.24,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.31,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.29,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.31,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.29,
     "LR_EOG_College_Ready_White_To_Black": 2.12,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.33,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.79,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.39
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.79,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.39
   },
   {
     "leaCode": 160,
@@ -637,12 +637,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.06,
     "LR_EOC_College_Ready_White_To_Black": 1.71,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.19,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.46,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.17,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.46,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.17,
     "LR_EOG_College_Ready_White_To_Black": 1.69,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.55,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.47,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.39
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.47,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.39
   },
   {
     "leaCode": 830,
@@ -652,12 +652,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 4.13,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.25,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 3.19,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.12,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 3.19,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.12,
     "LR_EOG_College_Ready_White_To_Black": 2.23,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.56,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.86,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.39
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.86,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.39
   },
   {
     "leaCode": 350,
@@ -667,12 +667,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.07,
     "LR_EOC_College_Ready_White_To_Black": 2.08,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.29,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.76,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.19,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.76,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.19,
     "LR_EOG_College_Ready_White_To_Black": 1.96,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.49,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.69,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.38
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.69,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.38
   },
   {
     "leaCode": 300,
@@ -682,12 +682,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.05,
     "LR_EOC_College_Ready_White_To_Black": 2.83,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.8,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.7,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.57,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.7,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.57,
     "LR_EOG_College_Ready_White_To_Black": 2.21,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.65,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.73,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.37
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.73,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.37
   },
   {
     "leaCode": 990,
@@ -697,12 +697,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.93,
     "LR_EOC_College_Ready_White_To_Black": 0.98,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.39,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 0.99,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.32,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 0.99,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.32,
     "LR_EOG_College_Ready_White_To_Black": 1.55,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.5,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.38,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.36
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.38,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.36
   },
   {
     "leaCode": 430,
@@ -712,12 +712,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.11,
     "LR_EOC_College_Ready_White_To_Black": 1.48,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.17,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.25,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.14,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.25,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.14,
     "LR_EOG_College_Ready_White_To_Black": 2.1,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.47,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.77,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.35
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.77,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.35
   },
   {
     "leaCode": 230,
@@ -727,12 +727,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.07,
     "LR_EOC_College_Ready_White_To_Black": 2.17,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.9,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.78,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.54,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.78,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.54,
     "LR_EOG_College_Ready_White_To_Black": 1.83,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.54,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.57,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.35
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.57,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.35
   },
   {
     "leaCode": 30,
@@ -742,12 +742,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.98,
     "LR_EOC_College_Ready_White_To_Black": "",
     "LR_EOC_College_Ready_White_To_Hispanic": 1.84,
-    "LR_EOC_Grade Level Proficient_White_To_Black": "",
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.45,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.45,
     "LR_EOG_College_Ready_White_To_Black": "",
     "LR_EOG_College_Ready_White_To_Hispanic": 1.43,
-    "LR_EOG_Grade Level Proficient_White_To_Black": "",
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.34
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.34
   },
   {
     "leaCode": 780,
@@ -757,12 +757,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.01,
     "LR_EOC_College_Ready_White_To_Black": 2.08,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.15,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.71,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.11,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.71,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.11,
     "LR_EOG_College_Ready_White_To_Black": 2.01,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.45,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.76,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.34
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.76,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.34
   },
   {
     "leaCode": 460,
@@ -772,12 +772,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 4.44,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.28,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 3.42,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.08,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 3.42,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.08,
     "LR_EOG_College_Ready_White_To_Black": 2.83,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.45,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 2.34,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.33
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 2.34,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.33
   },
   {
     "leaCode": 100,
@@ -787,12 +787,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.01,
     "LR_EOC_College_Ready_White_To_Black": 2.32,
     "LR_EOC_College_Ready_White_To_Hispanic": "",
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.22,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.22,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": "",
     "LR_EOG_College_Ready_White_To_Black": 1.76,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.41,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.48,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.33
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.48,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.33
   },
   {
     "leaCode": 420,
@@ -802,12 +802,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 2.13,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.56,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.95,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.47,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.95,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.47,
     "LR_EOG_College_Ready_White_To_Black": 1.93,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.45,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.73,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.33
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.73,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.33
   },
   {
     "leaCode": 422,
@@ -817,12 +817,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 1.96,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.4,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.9,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.28,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.9,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.28,
     "LR_EOG_College_Ready_White_To_Black": 1.83,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.53,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.52,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.33
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.52,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.33
   },
   {
     "leaCode": 290,
@@ -832,12 +832,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.03,
     "LR_EOC_College_Ready_White_To_Black": 1.98,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.78,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.67,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.59,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.67,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.59,
     "LR_EOG_College_Ready_White_To_Black": 1.86,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.4,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.61,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.31
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.61,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.31
   },
   {
     "leaCode": 660,
@@ -847,12 +847,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 2.48,
     "LR_EOC_College_Ready_White_To_Hispanic": 2.07,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.95,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.73,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.95,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.73,
     "LR_EOG_College_Ready_White_To_Black": 1.86,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.43,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.77,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.31
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.77,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.31
   },
   {
     "leaCode": 710,
@@ -862,12 +862,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.97,
     "LR_EOC_College_Ready_White_To_Black": 2.52,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.4,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.04,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.31,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.04,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.31,
     "LR_EOG_College_Ready_White_To_Black": 2.07,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.43,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.72,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.31
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.72,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.31
   },
   {
     "leaCode": 130,
@@ -877,12 +877,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.12,
     "LR_EOC_College_Ready_White_To_Black": 2.49,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.42,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.42,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.27,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.42,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.27,
     "LR_EOG_College_Ready_White_To_Black": 1.64,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.45,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.48,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.3
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.48,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.3
   },
   {
     "leaCode": 510,
@@ -892,12 +892,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.09,
     "LR_EOC_College_Ready_White_To_Black": 1.94,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.66,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.71,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.49,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.71,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.49,
     "LR_EOG_College_Ready_White_To_Black": 2.04,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.49,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.72,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.29
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.72,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.29
   },
   {
     "leaCode": 111,
@@ -907,12 +907,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.13,
     "LR_EOC_College_Ready_White_To_Black": 1.85,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.24,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.57,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.15,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.57,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.15,
     "LR_EOG_College_Ready_White_To_Black": 1.9,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.42,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.6,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.28
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.6,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.28
   },
   {
     "leaCode": 620,
@@ -922,12 +922,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 1.68,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.31,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.58,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.18,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.58,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.18,
     "LR_EOG_College_Ready_White_To_Black": 1.99,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.37,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.71,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.28
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.71,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.28
   },
   {
     "leaCode": 630,
@@ -937,12 +937,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.09,
     "LR_EOC_College_Ready_White_To_Black": 2.23,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.47,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.62,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.34,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.62,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.34,
     "LR_EOG_College_Ready_White_To_Black": 2.07,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.37,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.61,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.28
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.61,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.28
   },
   {
     "leaCode": 480,
@@ -952,12 +952,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 1.3,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.28,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.08,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.32,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.08,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.32,
     "LR_EOG_College_Ready_White_To_Black": 1.51,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.45,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.56,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.28
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.56,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.28
   },
   {
     "leaCode": 730,
@@ -967,12 +967,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.31,
     "LR_EOC_College_Ready_White_To_Black": 2.08,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.53,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.8,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.25,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.8,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.25,
     "LR_EOG_College_Ready_White_To_Black": 1.9,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.36,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.58,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.28
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.58,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.28
   },
   {
     "leaCode": 450,
@@ -982,12 +982,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.01,
     "LR_EOC_College_Ready_White_To_Black": 1.59,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.17,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.55,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.15,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.55,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.15,
     "LR_EOG_College_Ready_White_To_Black": 1.74,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.38,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.52,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.28
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.52,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.28
   },
   {
     "leaCode": 60,
@@ -997,12 +997,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 2.94,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.54,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.26,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.38,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.26,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.38,
     "LR_EOG_College_Ready_White_To_Black": 1.95,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.45,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.67,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.27
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.67,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.27
   },
   {
     "leaCode": 240,
@@ -1012,12 +1012,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.13,
     "LR_EOC_College_Ready_White_To_Black": 1.9,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.29,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.65,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.13,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.65,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.13,
     "LR_EOG_College_Ready_White_To_Black": 1.91,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.33,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.59,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.27
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.59,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.27
   },
   {
     "leaCode": 750,
@@ -1027,12 +1027,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.05,
     "LR_EOC_College_Ready_White_To_Black": 1.98,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.23,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.91,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.2,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.91,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.2,
     "LR_EOG_College_Ready_White_To_Black": 1.78,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.34,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.26,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.27
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.26,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.27
   },
   {
     "leaCode": 90,
@@ -1042,12 +1042,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.06,
     "LR_EOC_College_Ready_White_To_Black": 2.76,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.34,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.33,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.32,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.33,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.32,
     "LR_EOG_College_Ready_White_To_Black": 2.3,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.45,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.86,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.27
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.86,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.27
   },
   {
     "leaCode": 960,
@@ -1057,12 +1057,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.17,
     "LR_EOC_College_Ready_White_To_Black": 2.11,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.95,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.78,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.36,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.78,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.36,
     "LR_EOG_College_Ready_White_To_Black": 1.8,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.42,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.52,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.27
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.52,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.27
   },
   {
     "leaCode": 760,
@@ -1072,12 +1072,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.97,
     "LR_EOC_College_Ready_White_To_Black": 1.92,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.48,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.79,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.32,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.79,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.32,
     "LR_EOG_College_Ready_White_To_Black": 1.85,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.37,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.53,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.27
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.53,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.27
   },
   {
     "leaCode": 550,
@@ -1087,12 +1087,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.96,
     "LR_EOC_College_Ready_White_To_Black": "",
     "LR_EOC_College_Ready_White_To_Hispanic": 1.47,
-    "LR_EOC_Grade Level Proficient_White_To_Black": "",
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.33,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.33,
     "LR_EOG_College_Ready_White_To_Black": 1.17,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.34,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.27,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.26
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.27,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.26
   },
   {
     "leaCode": 20,
@@ -1102,12 +1102,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.08,
     "LR_EOC_College_Ready_White_To_Black": 1.78,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.31,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.98,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.31,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.98,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.31,
     "LR_EOG_College_Ready_White_To_Black": 1.61,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.36,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.56,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.25
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.56,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.25
   },
   {
     "leaCode": 970,
@@ -1117,12 +1117,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.04,
     "LR_EOC_College_Ready_White_To_Black": 2.45,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.57,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.63,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.32,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.63,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.32,
     "LR_EOG_College_Ready_White_To_Black": 1.51,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.37,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.33,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.25
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.33,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.25
   },
   {
     "leaCode": 520,
@@ -1132,12 +1132,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 2.97,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.43,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.4,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.37,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.4,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.37,
     "LR_EOG_College_Ready_White_To_Black": 2.27,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.39,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.94,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.24
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.94,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.24
   },
   {
     "leaCode": 210,
@@ -1147,12 +1147,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": "",
     "LR_EOC_College_Ready_White_To_Hispanic": 1.58,
-    "LR_EOC_Grade Level Proficient_White_To_Black": "",
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.88,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.88,
     "LR_EOG_College_Ready_White_To_Black": 5.23,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.18,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 6.73,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.24
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 6.73,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.24
   },
   {
     "leaCode": 840,
@@ -1162,12 +1162,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.1,
     "LR_EOC_College_Ready_White_To_Black": 2.6,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.02,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.8,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 0.98,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.8,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 0.98,
     "LR_EOG_College_Ready_White_To_Black": 1.4,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.27,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.33,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.24
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.33,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.24
   },
   {
     "leaCode": 140,
@@ -1177,12 +1177,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.05,
     "LR_EOC_College_Ready_White_To_Black": 2.04,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.51,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.73,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.33,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.73,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.33,
     "LR_EOG_College_Ready_White_To_Black": 1.72,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.37,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.49,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.24
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.49,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.24
   },
   {
     "leaCode": 280,
@@ -1192,12 +1192,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 1.39,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.34,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.2,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.28,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.2,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.28,
     "LR_EOG_College_Ready_White_To_Black": 1.52,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.27,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.42,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.23
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.42,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.23
   },
   {
     "leaCode": 820,
@@ -1207,12 +1207,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.07,
     "LR_EOC_College_Ready_White_To_Black": 1.92,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.34,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.59,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.2,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.59,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.2,
     "LR_EOG_College_Ready_White_To_Black": 1.65,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.4,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.45,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.22
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.45,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.22
   },
   {
     "leaCode": 250,
@@ -1222,12 +1222,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1,
     "LR_EOC_College_Ready_White_To_Black": 1.79,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.24,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.56,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.18,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.56,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.18,
     "LR_EOG_College_Ready_White_To_Black": 1.8,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.33,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.56,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.22
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.56,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.22
   },
   {
     "leaCode": 570,
@@ -1237,12 +1237,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 2.05,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.51,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.78,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.27,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.78,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.27,
     "LR_EOG_College_Ready_White_To_Black": 2.27,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.34,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.81,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.22
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.81,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.22
   },
   {
     "leaCode": 310,
@@ -1252,12 +1252,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.16,
     "LR_EOC_College_Ready_White_To_Black": 2.74,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.34,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.14,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.33,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.14,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.33,
     "LR_EOG_College_Ready_White_To_Black": 2.3,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.27,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.94,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.22
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.94,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.22
   },
   {
     "leaCode": 540,
@@ -1267,12 +1267,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.14,
     "LR_EOC_College_Ready_White_To_Black": 1.81,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.52,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.52,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.4,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.52,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.4,
     "LR_EOG_College_Ready_White_To_Black": 1.88,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.32,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.73,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.21
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.73,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.21
   },
   {
     "leaCode": 241,
@@ -1282,12 +1282,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.45,
     "LR_EOC_College_Ready_White_To_Black": 2.08,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.22,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.72,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.12,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.72,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.12,
     "LR_EOG_College_Ready_White_To_Black": 1.91,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.3,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.6,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.21
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.6,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.21
   },
   {
     "leaCode": 761,
@@ -1297,12 +1297,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.96,
     "LR_EOC_College_Ready_White_To_Black": 1.68,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.09,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.59,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.06,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.59,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.06,
     "LR_EOG_College_Ready_White_To_Black": 1.95,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.29,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.68,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.2
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.68,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.2
   },
   {
     "leaCode": 700,
@@ -1312,12 +1312,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.12,
     "LR_EOC_College_Ready_White_To_Black": 2.35,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.26,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.05,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.34,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.05,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.34,
     "LR_EOG_College_Ready_White_To_Black": 2.1,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.22,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.82,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.2
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.82,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.2
   },
   {
     "leaCode": 790,
@@ -1327,12 +1327,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.03,
     "LR_EOC_College_Ready_White_To_Black": 1.66,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.37,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.47,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.3,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.47,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.3,
     "LR_EOG_College_Ready_White_To_Black": 1.74,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.33,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.51,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.2
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.51,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.2
   },
   {
     "leaCode": 370,
@@ -1342,12 +1342,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": "",
     "LR_EOC_College_Ready_White_To_Hispanic": 2.07,
-    "LR_EOC_Grade Level Proficient_White_To_Black": "",
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 2.02,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 2.02,
     "LR_EOG_College_Ready_White_To_Black": "",
     "LR_EOG_College_Ready_White_To_Hispanic": 1.8,
-    "LR_EOG_Grade Level Proficient_White_To_Black": "",
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.2
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.2
   },
   {
     "leaCode": 920,
@@ -1357,12 +1357,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.24,
     "LR_EOC_College_Ready_White_To_Black": 2.44,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.37,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.77,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.42,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.77,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.42,
     "LR_EOG_College_Ready_White_To_Black": 1.69,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.3,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.43,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.2
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.43,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.2
   },
   {
     "leaCode": 421,
@@ -1372,12 +1372,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.99,
     "LR_EOC_College_Ready_White_To_Black": 2.14,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.2,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.15,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.27,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.15,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.27,
     "LR_EOG_College_Ready_White_To_Black": 1.37,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.28,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.22,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.2
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.22,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.2
   },
   {
     "leaCode": 340,
@@ -1387,12 +1387,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.16,
     "LR_EOC_College_Ready_White_To_Black": 1.72,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.45,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.43,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.33,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.43,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.33,
     "LR_EOG_College_Ready_White_To_Black": 1.92,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.31,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.58,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.2
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.58,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.2
   },
   {
     "leaCode": 600,
@@ -1402,12 +1402,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.21,
     "LR_EOC_College_Ready_White_To_Black": 2.17,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.28,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.91,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.14,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.91,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.14,
     "LR_EOG_College_Ready_White_To_Black": 2.46,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.24,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.99,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.18
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.99,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.18
   },
   {
     "leaCode": 850,
@@ -1417,12 +1417,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.95,
     "LR_EOC_College_Ready_White_To_Black": 1.75,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.26,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.77,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.21,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.77,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.21,
     "LR_EOG_College_Ready_White_To_Black": 1.88,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.29,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.58,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.18
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.58,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.18
   },
   {
     "leaCode": 220,
@@ -1432,12 +1432,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 2.04,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.5,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.8,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.42,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.8,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.42,
     "LR_EOG_College_Ready_White_To_Black": 1.73,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.31,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.57,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.17
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.57,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.17
   },
   {
     "leaCode": 821,
@@ -1447,12 +1447,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.2,
     "LR_EOC_College_Ready_White_To_Black": 1.91,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.13,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.76,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.01,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.76,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.01,
     "LR_EOG_College_Ready_White_To_Black": 2.03,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.14,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.72,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.17
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.72,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.17
   },
   {
     "leaCode": 110,
@@ -1462,12 +1462,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1,
     "LR_EOC_College_Ready_White_To_Black": 2.5,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.23,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.16,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.17,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.16,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.17,
     "LR_EOG_College_Ready_White_To_Black": 1.97,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.32,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.57,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.16
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.57,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.16
   },
   {
     "leaCode": 680,
@@ -1477,12 +1477,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.04,
     "LR_EOC_College_Ready_White_To_Black": 1.55,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.09,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.38,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.1,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.38,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.1,
     "LR_EOG_College_Ready_White_To_Black": 1.83,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.2,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.59,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.15
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.59,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.15
   },
   {
     "leaCode": 50,
@@ -1492,12 +1492,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": "",
     "LR_EOC_College_Ready_White_To_Hispanic": 1.12,
-    "LR_EOC_Grade Level Proficient_White_To_Black": "",
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.06,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.06,
     "LR_EOG_College_Ready_White_To_Black": 1.55,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.26,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.58,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.14
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.58,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.14
   },
   {
     "leaCode": 260,
@@ -1507,12 +1507,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.03,
     "LR_EOC_College_Ready_White_To_Black": 1.98,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.29,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.46,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.19,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.46,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.19,
     "LR_EOG_College_Ready_White_To_Black": 2.33,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.26,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.62,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.14
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.62,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.14
   },
   {
     "leaCode": 590,
@@ -1522,12 +1522,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.93,
     "LR_EOC_College_Ready_White_To_Black": "",
     "LR_EOC_College_Ready_White_To_Hispanic": 2.68,
-    "LR_EOC_Grade Level Proficient_White_To_Black": "",
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 2.17,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 2.17,
     "LR_EOG_College_Ready_White_To_Black": "",
     "LR_EOG_College_Ready_White_To_Hispanic": 1.2,
-    "LR_EOG_Grade Level Proficient_White_To_Black": "",
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.11
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.11
   },
   {
     "leaCode": 200,
@@ -1537,12 +1537,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.13,
     "LR_EOC_College_Ready_White_To_Black": 2.13,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.07,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.77,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.17,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.77,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.17,
     "LR_EOG_College_Ready_White_To_Black": 1.31,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.14,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.51,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.11
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.51,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.11
   },
   {
     "leaCode": 560,
@@ -1552,12 +1552,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.05,
     "LR_EOC_College_Ready_White_To_Black": "",
     "LR_EOC_College_Ready_White_To_Hispanic": 1.09,
-    "LR_EOC_Grade Level Proficient_White_To_Black": "",
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.17,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.17,
     "LR_EOG_College_Ready_White_To_Black": 1.13,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.12,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 0.97,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.1
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 0.97,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.1
   },
   {
     "leaCode": 530,
@@ -1567,12 +1567,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.03,
     "LR_EOC_College_Ready_White_To_Black": 1.52,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.09,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.53,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.2,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.53,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.2,
     "LR_EOG_College_Ready_White_To_Black": 1.49,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.2,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.23,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.1
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.23,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.1
   },
   {
     "leaCode": 810,
@@ -1582,12 +1582,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 0.99,
     "LR_EOC_College_Ready_White_To_Black": 1.85,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.02,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.56,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.02,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.56,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.02,
     "LR_EOG_College_Ready_White_To_Black": 1.73,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.1,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.5,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.08
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.5,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.08
   },
   {
     "leaCode": 861,
@@ -1597,12 +1597,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 2.08,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.19,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.7,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.1,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.7,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.1,
     "LR_EOG_College_Ready_White_To_Black": 1.57,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.22,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.41,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 1.07
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.41,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 1.07
   },
   {
     "leaCode": 890,
@@ -1612,12 +1612,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 2.38,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.25,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.82,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.08,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.82,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.08,
     "LR_EOG_College_Ready_White_To_Black": 1.69,
     "LR_EOG_College_Ready_White_To_Hispanic": 0.98,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.52,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 0.98
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.52,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 0.98
   },
   {
     "leaCode": 720,
@@ -1627,12 +1627,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 3.5,
     "LR_EOC_College_Ready_White_To_Hispanic": 2.09,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 2.84,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 1.81,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 2.84,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 1.81,
     "LR_EOG_College_Ready_White_To_Black": 2.45,
     "LR_EOG_College_Ready_White_To_Hispanic": 0.99,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.71,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 0.98
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.71,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 0.98
   },
   {
     "leaCode": 491,
@@ -1642,12 +1642,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1,
     "LR_EOC_College_Ready_White_To_Black": 1.32,
     "LR_EOC_College_Ready_White_To_Hispanic": 0.81,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.35,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 0.89,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.35,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 0.89,
     "LR_EOG_College_Ready_White_To_Black": 1.58,
     "LR_EOG_College_Ready_White_To_Hispanic": 0.88,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.38,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 0.95
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.38,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 0.95
   },
   {
     "leaCode": 150,
@@ -1657,12 +1657,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 1.71,
     "LR_EOC_College_Ready_White_To_Hispanic": 1.02,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.44,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 0.96,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.44,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 0.96,
     "LR_EOG_College_Ready_White_To_Black": 2.23,
     "LR_EOG_College_Ready_White_To_Hispanic": 0.98,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.74,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 0.95
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.74,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 0.95
   },
   {
     "leaCode": 410,
@@ -1672,12 +1672,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.12,
     "LR_EOC_College_Ready_White_To_Black": 0.85,
     "LR_EOC_College_Ready_White_To_Hispanic": 0.3,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 0.77,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 0.33,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 0.77,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 0.33,
     "LR_EOG_College_Ready_White_To_Black": 1.37,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.08,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.13,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 0.91
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.13,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 0.91
   },
   {
     "leaCode": 690,
@@ -1687,12 +1687,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": "",
     "LR_EOC_College_Ready_White_To_Black": 2.07,
     "LR_EOC_College_Ready_White_To_Hispanic": 0.9,
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.54,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": 0.95,
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.54,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": 0.95,
     "LR_EOG_College_Ready_White_To_Black": 1.94,
     "LR_EOG_College_Ready_White_To_Hispanic": 0.89,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.87,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 0.89
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.87,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 0.89
   },
   {
     "leaCode": 670,
@@ -1702,12 +1702,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1,
     "LR_EOC_College_Ready_White_To_Black": 2.27,
     "LR_EOC_College_Ready_White_To_Hispanic": "",
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.64,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.64,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": "",
     "LR_EOG_College_Ready_White_To_Black": 1.87,
     "LR_EOG_College_Ready_White_To_Hispanic": 0.99,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.5,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 0.86
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.5,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 0.86
   },
   {
     "leaCode": 360,
@@ -1717,12 +1717,12 @@ const data = [
     "LR_Graduation_White_To_Hispanic": 1.09,
     "LR_EOC_College_Ready_White_To_Black": 1.59,
     "LR_EOC_College_Ready_White_To_Hispanic": "",
-    "LR_EOC_Grade Level Proficient_White_To_Black": 1.37,
-    "LR_EOC_Grade Level Proficient_White_To_Hispanic": "",
+    "LR_EOC_Grade_Level_Proficient_White_To_Black": 1.37,
+    "LR_EOC_Grade_Level_Proficient_White_To_Hispanic": "",
     "LR_EOG_College_Ready_White_To_Black": 1.81,
     "LR_EOG_College_Ready_White_To_Hispanic": 1.13,
-    "LR_EOG_Grade Level Proficient_White_To_Black": 1.57,
-    "LR_EOG_Grade Level Proficient_White_To_Hispanic": 0.82
+    "LR_EOG_Grade_Level_Proficient_White_To_Black": 1.57,
+    "LR_EOG_Grade_Level_Proficient_White_To_Hispanic": 0.82
   }
 ]
 

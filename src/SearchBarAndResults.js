@@ -6,14 +6,14 @@ export default class SearchBarAndResults extends Component {
     super(props)
     this.state = {
       filter: "",
-      selectedItemIndex: -1
+      selectedItemIndex: undefined
     }
   }
 
   render() {
     const { selectedItemIndex } = this.state
-    const selectedDistrictObject = this.props.districtData[selectedItemIndex]
-
+    const selectedDistrictObject = selectedItemIndex === undefined ? {} : this.props.districtData[selectedItemIndex]
+    console.log(selectedDistrictObject)
     return (
       <div>
         <AutoComplete
@@ -28,11 +28,20 @@ export default class SearchBarAndResults extends Component {
           }}
         />
 
-        {/* Results: */}
         <div>
-          <h3>Index: {selectedItemIndex}</h3>
           <h3>{selectedDistrictObject ? selectedDistrictObject.districtName : "[none district selected]"}</h3>
-          yo
+          <table>
+            <tbody>
+              {Object.keys(selectedDistrictObject).map((propName, i) => {
+                return (
+                  <tr key={i}>
+                    <td>{propName}</td>
+                    <td>{selectedDistrictObject[propName]}</td>
+                  </tr>
+                )
+              })}
+            </tbody>
+          </table>
         </div>
       </div>
     );

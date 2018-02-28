@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import PeopleContainer from './components/PeopleContainer'
 import districtData from './data/lr-leas-16-17-testing-and-graduation.js'
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import SearchBarAndResults from './SearchBarAndResults'
@@ -13,15 +14,18 @@ class App extends Component {
   render() {
     return (
       <MuiThemeProvider>
-        <div className="App">
-          <header className="App-header">
-            <img src={logo} className="App-logo" alt="logo" />
-            <h1 className="App-title">Welcome to React</h1>
-          </header>
-          <p className="App-intro">
-            To get started, edit <code>src/App.js</code> and save to reload.
+        <div>
+          {/* <PeopleContainer /> */}
+          <div className="App">
+            <header className="App-header">
+              <img src={logo} className="App-logo" alt="logo" />
+              <h1 className="App-title">SCSJ Racial Equity Report Card</h1>
+            </header>
+            <p className="App-intro">
+              To get started, search for a school district and click it to view its report card.
           </p>
-          <SearchBarAndResults districtData={districtData} />
+            <SearchBarAndResults districtData={districtData} />
+          </div>
         </div>
       </MuiThemeProvider>
     );
