@@ -24,7 +24,7 @@ export default class SearchBarAndResults extends Component {
           <YAxis />
           <Tooltip />
           <Legend />
-          <Bar dataKey="leaCode" fill="#8884d8" />
+          <Bar dataKey="LR_Graduation_White_To_Hispanic" fill="#8884d8" />
           {/* <Bar dataKey="uv" fill="#82ca9d" /> */}
         </BarChart>
 
