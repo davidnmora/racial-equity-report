@@ -6,57 +6,90 @@ export default class SearchBarAndResults extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      filter: "",
-      selectedItemIndex: undefined
+      selectedDistrictName: ''
     }
   }
 
   render() {
-    const { selectedItemIndex } = this.state
-    const selectedDistrictObject = selectedItemIndex === undefined ? {} : this.props.districtData[selectedItemIndex]
-    console.log(selectedDistrictObject)
+    console.log("prop.districtData", this.props.districtData)
+    const { selectedDistrictName } = this.state
+    const { districtData }         = this.props
 
     return (
       <div>
-        <BarChart width={730} height={250} data={this.props.districtData}>
+        {/* <BarChart width={730} height={250} data={this.props.districtData}>
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="districtName" />
           <YAxis />
           <Tooltip />
           <Legend />
           <Bar dataKey="LR_Graduation_White_To_Hispanic" fill="#8884d8" />
-          {/* <Bar dataKey="uv" fill="#82ca9d" /> */}
-        </BarChart>
-
+        </BarChart> */}
 
         <AutoComplete
           floatingLabelText="Search a school district name"
           filter={AutoComplete.fuzzyFilter}
-          dataSource={this.props.districtData.map(d => d.districtName)}
+          dataSource={Object.keys(this.props.districtData.disciplineData)}
           maxSearchResults={10}
           onNewRequest={(selectedText, index) => {
+            console.log('selectedText:', selectedText)
+            // TO DO: HANDLE INCOMPLETE ENTER-KEY SUBMIT (e.g. 'Scho' instead of 'School X')
             this.setState({
-              selectedItemIndex: index
+              selectedDistrictName: selectedText
             })
           }}
         />
 
         <div>
-          <h3>{selectedDistrictObject ? selectedDistrictObject.districtName : "[none district selected]"}</h3>
-          <table>
-            <tbody>
-              {Object.keys(selectedDistrictObject).map((propName, i) => {
-                return (
-                  <tr key={i}>
-                    <td>{propName}</td>
-                    <td>{selectedDistrictObject[propName]}</td>
-                  </tr>
-                )
-              })}
-            </tbody>
-          </table>
+          <h1>{selectedDistrictName ? selectedDistrictName : "[no district selected]"}</h1>
+          <AcademicInfo   data={districtData.academicData  [selectedDistrictName]} />
+          <DisciplineInfo data={districtData.disciplineData[selectedDistrictName]} />
         </div>
       </div>
     );
+  }
+}
+
+class AcademicInfo extends Component {
+  render() {
+    return (
+      <div>
+        <h2>Academic</h2>
+        <table>
+          <tbody>
+            {Object.keys(this.props.data ? this.props.data : {}).map((propName, i) => {
+              return (
+                <tr key={i}>
+                  <td>{propName}</td>
+                  <td>{this.props.data[propName]}</td>
+                </tr>
+              )
+            })}
+          </tbody>
+        </table>
+      </div>
+    )
+  }
+}
+
+class DisciplineInfo extends Component {
+  render() {
+    return (
+      <div>
+        <h2>Discipline</h2>
+        <table>
+          <tbody>
+            {Object.keys(this.props.data ? this.props.data : {}).map((propName, i) => {
+              return (
+                <tr key={i}>
+                  <td>{propName}</td>
+                  <td>{this.props.data[propName]}</td>
+                </tr>
+              )
+            })}
+          </tbody>
+        </table>
+      </div>
+    )
   }
 }
