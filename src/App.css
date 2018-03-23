@@ -30,3 +30,7 @@
 table {
   text-align: left;
 }
+
+.hidden {
+  display: none;
+}

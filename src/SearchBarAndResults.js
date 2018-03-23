@@ -10,9 +10,8 @@ export default class SearchBarAndResults extends Component {
   }
 
   render() {
-    console.log("prop.districtData", this.props.districtData)
     const { selectedDistrictName } = this.state
-    const { districtData }         = this.props
+    const { districtData } = this.props
 
     return (
       <div>
@@ -22,17 +21,15 @@ export default class SearchBarAndResults extends Component {
           dataSource={Object.keys(this.props.districtData.disciplineData)}
           maxSearchResults={10}
           onNewRequest={(selectedText, index) => {
-            console.log('selectedText:', selectedText)
-            // TO DO: HANDLE INCOMPLETE ENTER-KEY SUBMIT (e.g. 'Scho' instead of 'School X')
             this.setState({
-              selectedDistrictName: selectedText
+              selectedDistrictName: (districtData.disciplineData[selectedText] ? selectedText : '')
             })
           }}
         />
 
-        <div>
-          <h1>{selectedDistrictName ? selectedDistrictName : "[no district selected]"}</h1>
-          <AcademicInfo   data={districtData.academicData  [selectedDistrictName]} />
+        <div style={selectedDistrictName ? { visibility: 'visible' } : { visibility: 'hidden' }}>
+          <h1>{selectedDistrictName ? selectedDistrictName : '[no district selected]'}</h1>
+          <AcademicInfo data={districtData.academicData[selectedDistrictName]} />
           <DisciplineInfo data={districtData.disciplineData[selectedDistrictName]} />
         </div>
       </div>
