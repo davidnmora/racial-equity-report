@@ -2,6 +2,10 @@
   flex: 1;
 }
 
+.likelyhood-inner-wrapper {
+  margin-top: 8px;
+}
+
 .likelyhood-number {
   font-size: 4em;
 }

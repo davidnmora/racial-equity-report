@@ -42,10 +42,8 @@ table {
   flex-direction: column;
 }
 .info-sections-container {
-  max-width: 950px;
-  min-width: 950px;
-  border: 2px solid blanchedalmond;
-
+  max-width: 1000px;
+  min-width: 1000px;
 }
 
 h1, h2, h3 {

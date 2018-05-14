@@ -10,7 +10,7 @@ export default class PercentageChart extends Component {
     const { data, title } = this.props
     return (
       <div className="percentage-chart-container">
-        <h3 className="info-sub-title">{title}</h3>
+        <div className="bold text">{title}</div>
 				<table>
 					<tbody>
 					{Object.keys(data ? data : {}).map((race, i) => {

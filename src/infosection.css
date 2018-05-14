@@ -3,15 +3,17 @@
   font-size: 5.5em;
 }
 
-.sub-section-title {
+.info-sub-title {
   font-size: 2em;
 }
 
-.info-sub-title {
-  font-size: 1em;
+.info-section-content-wrapper {
+  margin-top: 22px;
+  display: flex;
 }
 
-.info-section-content-wrapper {
-  display: flex;
-  border: 1px solid mediumvioletred;
+.info-sub-container {
+  border-top: 2px solid black;
+  padding-top: 16px;
+  padding-left: 1px;
 }
