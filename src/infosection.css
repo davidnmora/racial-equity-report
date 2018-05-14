@@ -1,0 +1,17 @@
+.info-section-title {
+  text-align: left;
+  font-size: 5.5em;
+}
+
+.sub-section-title {
+  font-size: 2em;
+}
+
+.info-sub-title {
+  font-size: 1em;
+}
+
+.info-section-content-wrapper {
+  display: flex;
+  border: 1px solid mediumvioletred;
+}

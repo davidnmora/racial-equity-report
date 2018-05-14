@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './App.css';
-import PeopleContainer from './components/PeopleContainer';
+import './app.css';
 import academicData from './data/academic-data.js'; // TO DO: unify discipline and academic into a single object
 import disciplineData from './data/discipline-data.js';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';

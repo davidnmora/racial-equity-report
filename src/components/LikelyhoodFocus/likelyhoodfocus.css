@@ -1,0 +1,12 @@
+.likelyhood-focus-container {
+  flex: 1;
+}
+
+.likelyhood-number {
+  font-size: 4em;
+}
+
+.likely {
+  margin-top: -10px;
+  margin-bottom: 10px
+}

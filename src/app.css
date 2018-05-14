@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  color: #333333;
 }
 
 .App-logo {
@@ -33,4 +33,29 @@ table {
 
 .hidden {
   display: none;
+}
+
+/*Davids code*/
+.body-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.info-sections-container {
+  max-width: 950px;
+  min-width: 950px;
+  border: 2px solid blanchedalmond;
+
+}
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+.text {
+  /*whatever*/
+}
+
+.text.bold {
+  font-weight: bold;
 }

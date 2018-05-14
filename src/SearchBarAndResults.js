@@ -16,8 +16,9 @@ export default class SearchBarAndResults extends Component {
     const { districtData } = this.props
 
     return (
-      <div>
+      <div className="body-container">
         <AutoComplete
+          autoFocus={true}
           floatingLabelText="Search a school district name"
           filter={AutoComplete.fuzzyFilter}
           dataSource={Object.keys(this.props.districtData.disciplineData)}
@@ -29,11 +30,11 @@ export default class SearchBarAndResults extends Component {
           }}
         />
 
-        <div style={selectedDistrictName ? { visibility: 'visible' } : { visibility: 'hidden' }}>
+        {selectedDistrictName && <div className="info-sections-container">
           <h1>{selectedDistrictName ? selectedDistrictName : '[no district selected]'}</h1>
           <AcademicInfo data={districtData.academicData[selectedDistrictName]} />
           <DisciplineInfo data={districtData.disciplineData[selectedDistrictName]} />
-        </div>
+        </div>}
       </div>
     )
   }

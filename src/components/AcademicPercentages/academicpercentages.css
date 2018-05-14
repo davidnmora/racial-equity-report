@@ -1,0 +1,5 @@
+.academic-percentages-container {
+  flex: 4;
+  display: flex;
+  border: 1px solid skyblue;
+}

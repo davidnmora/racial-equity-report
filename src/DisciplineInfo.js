@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './infosection.css'
 
 export default class DisciplineInfo extends Component {
   render() {
