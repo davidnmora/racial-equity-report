@@ -1,4 +1,4 @@
-export const RACES = ['All Students', 'White', 'Hispanic', 'Black', 'Amer Indian', 'Asian', 'Biracial']
+export const RACES = ['All Students', 'White', 'Hispanic', 'Black',/* 'Amer Indian', 'Asian', 'Biracial'*/]
 export const YEARS = ['2015-16', '2016-17']
 
 export const EOG_COLLEGE_READY = { type: '_EOG_College Ready', title: "3rd-8th Graders" }

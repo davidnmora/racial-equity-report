@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 .App {
+  font-family: 'Lato', sans-serif;
   color: #333333;
 }
 

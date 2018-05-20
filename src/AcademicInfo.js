@@ -1,6 +1,4 @@
 import React, { Component } from 'react'
-import { RACES, YEARS, EOG_COLLEGE_READY } from './constants'
-import { getDataFor } from './utils'
 import './infosection.css'
 import LikelyhoodFocus from './components/LikelyhoodFocus/LikelyhoodFocus'
 import AcademicPercentages from './components/AcademicPercentages/AcademicPercentages'
