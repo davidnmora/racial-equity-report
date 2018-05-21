@@ -1,3 +1,5 @@
+@import '../../constants.scss';
+
 .percentage-chart-container {
   flex: 1;
   
@@ -13,9 +15,7 @@
     
       white-space: nowrap;
       font-size: 16px;
-    
-      width: 6px;
-      height: 6px;
+      
       border-radius: 50%;
   
       .percent-data-point-title {
@@ -25,27 +25,20 @@
       }
   
       &.Black {
-        color: #82d5e5;
-        background-color: #82d5e5;
+        background-color: $black;
       }
   
       &.White {
-        color: #b7d5bb;
-        background-color: #b7d5bb;
-      }
-  
-      &.All.Students {
-        color: black;
-        background-color: black;
-    
-        font-size: 10px;
-        width: 6px;
-        height: 6px;
+        background-color: $white;
       }
   
       &.Hispanic {
-        color: #e5d5a4;
-        background-color: #e5d5a4;
+        background-color: $hispanic;
+      }
+  
+      &.All.Students {
+        background-color: $allstudents;
+        font-size: 10px;
       }
     }
   
