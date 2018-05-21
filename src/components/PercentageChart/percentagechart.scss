@@ -17,27 +17,11 @@
       font-size: 16px;
       
       border-radius: 50%;
-  
-      .percent-data-point-title {
-        position: absolute;
-        margin-left: 12px;
-        margin-top: -5px;
-      }
-  
-      &.Black {
-        background-color: $black;
-      }
-  
-      &.White {
-        background-color: $white;
-      }
-  
-      &.Hispanic {
-        background-color: $hispanic;
-      }
+        &:hover {
+          text-shadow: 1px 1px black;
+        }
   
       &.All.Students {
-        background-color: $allstudents;
         font-size: 10px;
       }
     }

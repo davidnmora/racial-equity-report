@@ -21,7 +21,7 @@ function DotDataVis({ data }) {
 			{Object.keys(data ? data : {}).map((race, i) => {
 				return (
 					<div key={i} className={`percent-data-point ${race}`} style={{bottom: `${getPointPosition(data[race])}px`}}>
-						<span className="percent-data-point-title">{race}</span>
+						{race}
 					</div>
 				)
 			})}
