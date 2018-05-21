@@ -1,42 +1,37 @@
 .percentage-chart-container {
-  flex: 1;
-}
-
-.dot-data-vis {
-  position: relative;
-
-  width: 80px;
-  /* height set and used in JS */
-  background-color: #f0f0f0;
-}
-
-.percent-data-point {
-  position: absolute;
-
-  width: 10px;
-  height: 10px;
-  background-color: mediumvioletred;
-  border-radius: 50%;
-}
-
-.percent-data-point.Black {
-  color: #82d5e5;
-  background-color: #82d5e5;
-}
-
-.percent-data-point.White {
-  color: #b7d5bb;
-  background-color: #b7d5bb;
-}
-
-.percent-data-point.All.Students {
-  color: black;
-  background-color: black;
-}
-
-
-
-.percent-data-point.Hispanic {
-  color: #e5d5a4;
-  background-color: #e5d5a4;
-}
+  flex: 1; }
+  .percentage-chart-container .dot-data-vis {
+    position: relative;
+    width: 80px;
+    /* height set and used in JS */
+    background-color: #f0f0f0; }
+    .percentage-chart-container .dot-data-vis .percent-data-point {
+      position: absolute;
+      white-space: nowrap;
+      font-size: 16px;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%; }
+      .percentage-chart-container .dot-data-vis .percent-data-point .percent-data-point-title {
+        position: absolute;
+        margin-left: 12px;
+        margin-top: -5px; }
+      .percentage-chart-container .dot-data-vis .percent-data-point.Black {
+        color: #82d5e5;
+        background-color: #82d5e5; }
+      .percentage-chart-container .dot-data-vis .percent-data-point.White {
+        color: #b7d5bb;
+        background-color: #b7d5bb; }
+      .percentage-chart-container .dot-data-vis .percent-data-point.All.Students {
+        color: black;
+        background-color: black;
+        font-size: 10px;
+        width: 6px;
+        height: 6px; }
+      .percentage-chart-container .dot-data-vis .percent-data-point.Hispanic {
+        color: #e5d5a4;
+        background-color: #e5d5a4; }
+    .percentage-chart-container .dot-data-vis .All.Students > .percent-data-point-title {
+      position: absolute;
+      margin-left: 12px;
+      margin-top: -3px; }

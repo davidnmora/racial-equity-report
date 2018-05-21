@@ -1,51 +1,62 @@
-@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 .App {
   font-family: 'Lato', sans-serif;
-  color: #333333; }
+  color: #333333;
+}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
-  height: 80px; }
+  height: 80px;
+}
 
 .App-header {
   background-color: #222;
   height: 150px;
   padding: 20px;
-  color: white; }
+  color: white;
+}
 
 .App-title {
-  font-size: 1.5em; }
+  font-size: 1.5em;
+}
 
 .App-intro {
-  font-size: large; }
+  font-size: large;
+}
 
 @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg); }
-  to {
-    transform: rotate(360deg); } }
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
 
 table {
-  text-align: left; }
+  text-align: left;
+}
 
 .hidden {
-  display: none; }
+  display: none;
+}
 
 /*Davids code*/
 .body-container {
   display: flex;
   align-items: center;
-  flex-direction: column; }
-
+  flex-direction: column;
+}
 .info-sections-container {
   max-width: 1000px;
-  min-width: 1000px; }
+  min-width: 1000px;
+}
 
 h1, h2, h3 {
-  margin: 0; }
+  margin: 0;
+}
 
 .text {
-  /*whatever*/ }
+  /*whatever*/
+}
 
 .text.bold {
-  font-weight: bold; }
+  font-weight: bold;
+}
