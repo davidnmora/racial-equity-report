@@ -22,3 +22,4 @@ yarn-error.log*
 
 # David's additions:
 /.idea
+*.css
