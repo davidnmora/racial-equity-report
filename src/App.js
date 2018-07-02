@@ -14,7 +14,6 @@ class App extends Component {
     return (
       <MuiThemeProvider>
         <div>
-          {/* <PeopleContainer /> */}
           <div className="App">
             <header className="App-header">
               <img src={logo} className="App-logo" alt="logo" />

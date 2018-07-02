@@ -7,7 +7,7 @@ export default class SearchBarAndResults extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      selectedDistrictName: ''
+      selectedDistrictName: 'Alexander County Schools' // TEMPORARY FOR DEVELOPMENT EASE
     }
   }
 

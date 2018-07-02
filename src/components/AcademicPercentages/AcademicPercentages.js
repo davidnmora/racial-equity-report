@@ -18,9 +18,9 @@ export default class AcademicPercentages extends Component {
 					<h2 className="info-sub-title grad">Graduate HS in 4 years</h2>
 				</div>
 				<div className="academic-percentage-charts">
-					<PercentageChart data={getDataFor(EOG_COLLEGE_READY.type, RACES, YEARS[0], data)} title={EOG_COLLEGE_READY.title}/>
-					<PercentageChart data={getDataFor(EOC_COLLEGE_READY.type, RACES, YEARS[0], data)} title={EOC_COLLEGE_READY.title}/>
-					<PercentageChart data={getDataFor(GRAD_IN_FOUR_YEARS.type, RACES, YEARS[0], data)} title={GRAD_IN_FOUR_YEARS.title}/>
+					<PercentageChart data={getDataFor(EOG_COLLEGE_READY.type, RACES.academicAchievement, YEARS[0], data)} title={EOG_COLLEGE_READY.title}/>
+					<PercentageChart data={getDataFor(EOC_COLLEGE_READY.type, RACES.academicAchievement, YEARS[0], data)} title={EOC_COLLEGE_READY.title}/>
+					<PercentageChart data={getDataFor(GRAD_IN_FOUR_YEARS.type, RACES.academicAchievement, YEARS[0], data)} title={GRAD_IN_FOUR_YEARS.title}/>
 				</div>
 			</div>
 		)
