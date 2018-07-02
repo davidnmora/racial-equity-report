@@ -1,4 +1,5 @@
 @import '../../constants.scss';
+$vis-width: 80px;
 
 .percentage-chart-container {
   flex: 1;
@@ -6,9 +7,22 @@
   .dot-data-vis {
     position: relative;
     
-    width: 80px;
+    width: $vis-width;
     /* height set and used in JS */
     background-color: #f0f0f0;
+  
+    .percentage-chart-axis {
+      position: absolute;
+      height: 1px;
+      width: $vis-width;
+      background-color: white;
+      span {
+        position: absolute;
+        top: -10px;
+        right: 90px;
+        text-align: right;
+      }
+    }
   
     .percent-data-point {
       position: absolute;
