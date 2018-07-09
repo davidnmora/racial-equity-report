@@ -10,7 +10,7 @@ export default class AcademicInfo extends Component {
 			<div className="academic-info">
 				<h2 className="info-section-title">Academic Achievement</h2>
 				<div className="info-section-content-wrapper">
-					<LikelyhoodFocus compareRaceA={"white"} toRaceB={"black"} likelyhood={this.getLikelyhood(data)} year={"2017-17"}/>
+					<LikelyhoodFocus compareRaceA={"white"} toRaceB={"black"} likelyhood={this.getLikelyhood(data)} year={"2016-17"}/>
 					<AcademicPercentages data={data} />
 				</div>
 			</div>

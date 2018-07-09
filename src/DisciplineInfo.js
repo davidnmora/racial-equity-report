@@ -1,23 +1,27 @@
 import React, { Component } from 'react'
 import './infosection.css'
-import LikelyhoodFocus from './components/LikelyhoodFocus/LikelyhoodFocus'
+import DisciplineLikelyhoodFocus from './components/LikelyhoodFocus/DisciplineLikelyhoodFocus'
 
 export default class AcademicInfo extends Component {
 	render() {
-		const { data } = this.props
+		const { data, demographics, districtName } = this.props
 		return (
 			<div className="academic-info">
 				<h2 className="info-section-title">Discipline</h2>
 				<div className="info-section-content-wrapper">
-					<LikelyhoodFocus compareRaceA={"white"} toRaceB={"black"} likelyhood={this.getLikelyhood(data)} year={"2017-17"}/>
+					<DisciplineLikelyhoodFocus
+						compareRaceA={"white"}
+						toRaceB={"black"}
+						year={"2016-17"}
+						
+						data={data}
+						demographics={demographics}
+						districtName={districtName}
+					/>
 				</div>
 				<TableView data={data} />
 			</div>
 		)
-	}
-	
-	getLikelyhood(data) {
-		return data['Likelihood ratio (Black to White)*']
 	}
 }
 

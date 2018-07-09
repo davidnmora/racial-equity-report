@@ -13,7 +13,7 @@ export default class SearchBarAndResults extends Component {
 
   render() {
     const { selectedDistrictName } = this.state
-    const { districtData } = this.props
+    const { disciplineData, academicData } = this.props.districtData
 
     return (
       <div className="body-container">
@@ -21,19 +21,23 @@ export default class SearchBarAndResults extends Component {
           autoFocus={true}
           floatingLabelText="Search a school district name"
           filter={AutoComplete.fuzzyFilter}
-          dataSource={Object.keys(this.props.districtData.disciplineData)}
+          dataSource={Object.keys(disciplineData)}
           maxSearchResults={10}
           onNewRequest={(selectedText, index) => {
             this.setState({
-              selectedDistrictName: (districtData.disciplineData[selectedText] ? selectedText : '')
+              selectedDistrictName: (disciplineData[selectedText] ? selectedText : '')
             })
           }}
         />
 
         {selectedDistrictName && <div className="info-sections-container">
           <h1>{selectedDistrictName ? selectedDistrictName : '[no district selected]'}</h1>
-          <AcademicInfo data={districtData.academicData[selectedDistrictName]} />
-          <DisciplineInfo data={districtData.disciplineData[selectedDistrictName]} />
+          <AcademicInfo data={academicData[selectedDistrictName]} />
+          <DisciplineInfo
+            data={disciplineData[selectedDistrictName]}
+            demographics={academicData[selectedDistrictName]}
+            districtName={selectedDistrictName}
+          />
         </div>}
       </div>
     )
