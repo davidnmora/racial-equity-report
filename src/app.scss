@@ -45,11 +45,11 @@ table {
   align-items: center;
   flex-direction: column;
   
-  .Black, .black {
+  .Black, .black, .BLACK {
     color: $black;
   }
   
-  .White, .white {
+  .White, .white, .WHITE {
     color: $white;
   }
   
@@ -57,7 +57,7 @@ table {
     color: $allstudents;
   }
   
-  .Hispanic, .hispanic {
+  .Hispanic, .hispanic, .HISPANIC {
     color: $hispanic;
   }
 }

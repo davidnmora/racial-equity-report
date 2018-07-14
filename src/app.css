@@ -36,13 +36,13 @@ table {
   display: flex;
   align-items: center;
   flex-direction: column; }
-  .body-container .Black, .body-container .black {
+  .body-container .Black, .body-container .black, .body-container .BLACK {
     color: #82d5e5; }
-  .body-container .White, .body-container .white {
+  .body-container .White, .body-container .white, .body-container .WHITE {
     color: #b7d5bb; }
   .body-container .All.Students, .body-container .all.students {
     color: #676767; }
-  .body-container .Hispanic, .body-container .hispanic {
+  .body-container .Hispanic, .body-container .hispanic, .body-container .HISPANIC {
     color: #e5d5a4; }
 
 .info-sections-container {
