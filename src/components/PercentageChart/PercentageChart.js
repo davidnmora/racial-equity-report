@@ -45,9 +45,10 @@ function LabeledAxes() {
 }
 
 function Dot({i, race, data}) {
+	const percentage = data[race]
 	return (
-		<div key={i} className={`percent-data-point ${race}`} style={{bottom: `${getYPosition(data[race])}px`}}>
-			{race}
+		<div key={i} className={`percent-data-point ${race}`} style={{bottom: `${getYPosition(percentage)}px`}}>
+			{`${race} (${percentage}%)`}
 		</div>
 	)
 }
