@@ -2,16 +2,16 @@ import React from 'react'
 import './likelyhoodfocus.css'
 
 const BASE_SUSPENSION_NUMBER = 10
-const STS_RACES =['BLACK', 'HISPANIC', 'INDIAN', 'MULTI-RACIAL', 'Asian']
+const STS_RACES =['WHITE', 'BLACK', 'HISPANIC', 'INDIAN', 'MULTI-RACIAL', 'Asian']
 
 export default function DisciplineLikelyhoodFocus(props){
-	const { compareRaceA, toRaceB, districtName } = props
+	const { districtName } = props
 	return (
 		<div className="info-sub-container likelyhood-focus-container">
 			<div className="likelyhood-inner-wrapper">
-				<div className="text para-2">Take two equally-sized groups of students from {districtName} -- one {toRaceB} and one {compareRaceA}:</div>
-				<FirstSuspensionNumber race={'WHITE'} />
-				{STS_RACES.map(race => {
+				<div className="text para-2">Take an equally-sized group of students from each racial group with available data at {districtName}:</div>
+				<FirstSuspensionNumber race={STS_RACES[0]} />
+				{STS_RACES.splice(1).map(race => {
 					return <RaceSuspensionNumber {...props} compareRaceA={race} />
 				})}
 			</div>
@@ -67,8 +67,8 @@ function RaceOverview(props) {
 	return (
 		<div>
 			<div className="text">
-				<span className={`bold text ${race}`}> {getSTSCount(race, data)} </span>
-				went to {race} students ({getDemographicPercentage(race, demographics, year)}% of the student population)
+				<span className={`text ${race}`}>{`${getSTSCount(race, data)} (${getSTSPercentage(race, data)}%)`} </span>
+				went to {race} students (<span className={`text ${race}`}>{getDemographicPercentage(race, demographics, year)}%</span> of the student population)
 			</div>
 		</div>
 	)
