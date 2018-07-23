@@ -27,6 +27,7 @@ function FirstSuspensionNumber({race}) {
 			<h3 className="likely">
 				short term suspensions to <span className={`bold text ${race}`}>{race} students</span>
 			</h3>
+			<DotBarChart count={BASE_SUSPENSION_NUMBER} />
 		</div>
 	)
 }
@@ -39,7 +40,25 @@ function RaceSuspensionNumber({compareRaceA, toRaceB, data, demographics, year})
 			<h3 className="likely">
 				short term suspensions would be given to <span className={`bold text ${compareRaceA}`}>{compareRaceA} students</span>
 			</h3>
+			<DotBarChart count={count} />
 		</div>
+	)
+}
+
+function DotBarChart({count}) {
+	const dots = Number(count) ? Array.apply(null, Array(parseInt(count, 10))) : []
+	return (
+		<div>
+			{dots.map(() => <Dot />)}
+		</div>
+	)
+}
+
+function Dot() {
+	return (
+		<svg height="10" width="10">
+			<circle cx="5" cy="5" r="4" fill="red" />
+		</svg>
 	)
 }
 
