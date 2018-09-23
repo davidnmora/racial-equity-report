@@ -27,7 +27,7 @@ export default class AcademicInfo extends Component {
 						districtName={districtName}
 					/>
 				</div>
-				<TableView data={data} />
+				{/*<TableView data={data} />*/}
 			</div>
 		)
 	}

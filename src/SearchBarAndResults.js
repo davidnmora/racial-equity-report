@@ -7,7 +7,7 @@ export default class SearchBarAndResults extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      selectedDistrictName: 'Alexander County Schools' // TEMPORARY FOR DEVELOPMENT EASE
+      selectedDistrictName: null,
     }
   }
 
@@ -32,7 +32,7 @@ export default class SearchBarAndResults extends Component {
 
         {selectedDistrictName && <div className="info-sections-container">
           <h1>{selectedDistrictName ? selectedDistrictName : '[no district selected]'}</h1>
-          {/*<AcademicInfo data={academicData[selectedDistrictName]} />*/}
+          <AcademicInfo data={academicData[selectedDistrictName]} />
           <DisciplineInfo
             data={disciplineData[selectedDistrictName]}
             demographics={academicData[selectedDistrictName]}
